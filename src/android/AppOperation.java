@@ -1,4 +1,4 @@
-package com.com.foreveross.plugins.AppExitPlugin;
+package com.foreveross.plugins.AppExitPlugin;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
